@@ -1,18 +1,27 @@
-<h1> 👋 Hi, Nice to meet you. </h1>
-  <h3>Welcome to my page!
-    I'm Lea Hwang, Backend developer from South Korea.</h3>
+<h1> 👋 Hi, there! </h1>
+
+</summary>
+<br>
+<p align="center">
+  <a href="https://github.com/youjungHwang">
+    <img align="center" style="height: 175px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://github-readme-stats.vercel.app/api?username=youjungHwang&show_icons=true&hide_border=true&title_color=cff0ff&icon_color=ffa726&text_color=daf7dc&bg_color=263238&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/youjungHwang">
+    <img align="center" style="height: 175px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youjungHwang&text_color=daf7dc&bg_color=263238&title_color=cff0ff&langs_count=15&hide=c%23,scss,objective-c,shaderlab,hlsl&layout=compact&hide_border=true" />
+  </a>
+</p>
+</details>
   
 <br/>
-<h2> My tech stack 📚 </h2>
+<h2> 💻 My Tech Stack </h2>
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Java](https://img.shields.io/badge/-Java-007ACC?style=for-the-badge&logo=Java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-222222?style=for-the-badge&logo=SpringBoot)
-![Jpa](https://img.shields.io/badge/-Jpa-222222?style=for-the-badge&logo=Jpa)
-![Mysql](https://img.shields.io/badge/-Mysql-43853d?style=for-the-badge&logo=Mysql.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <br/>
 
