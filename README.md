@@ -1,6 +1,8 @@
 <h1> 👋 Hi, there! </h1>
 
 </summary>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lealea)](https://solved.ac/lealea/)
+
 <br>
 <p align="center">
   <a href="https://github.com/youjungHwang">
