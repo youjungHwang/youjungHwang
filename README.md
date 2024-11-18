@@ -1,15 +1,15 @@
 <h1> 👋 Hi, there! I'm YouJung. </h1>
 
 ## Projects
-- [CStar](https://github.com/FreakPeople/freak-CStar-backend) | 컴퓨터 공학 퀴즈 웹 애플리케이션(백엔드) <sub> 2024.5 #kotlin #springboot #junit #mysql #redis #aws #github actions #docker</sub>
-- [Devtoon](https://github.com/FreakPeople/freak-devtoon-back) | 개발자 유머짤 공유 플랫폼 프로젝트(백엔드) <sub> 2024.8 #java #springboot #junit #mysql #github actions #docker</sub>
+- [CStar](https://github.com/FreakPeople/freak-CStar-backend) | 컴퓨터 공학 퀴즈 웹 애플리케이션(백엔드) <sub> 2024.8 #kotlin #springboot #junit #mysql #redis #aws #github actions #docker</sub>
+- [Devtoon](https://github.com/FreakPeople/freak-devtoon-back) | 개발자 유머짤 공유 플랫폼 프로젝트(백엔드) <sub> 2024.5 #java #springboot #junit #mysql #github actions #docker</sub>
 - [Black Friday](https://github.com/youjungHwang/black-friday) | 블랙 프라이데이 주문 트래픽 발생 실습 프로젝트(백엔드) <sub> 2024.2 #java #springboot #springcloud #junit #mysql #docker</sub>
 
 ## Study
 - [알고리즘 문제풀이(Java)](https://github.com/youjungHwang/algorithm) | <sub>2024.03 ~ </sub>
 - [업무에 바로 쓰는 SQL 튜닝](https://lealea.tistory.com/category/CS/Database) | <sub>2024.09 ~ </sub>
-- [Effective Java] | <sub>2024.11 ~ #독서</sub>
-- [객체지향 실습] | <sub>2024.10 ~ #자바 플레이 그라운드 + 인프런(readable code)</sub>
+- [Effective Java] </sub>
+- [객체지향 실습] </sub>
 
 ## Tech Stack
 <p>
