@@ -8,8 +8,18 @@
 ## Study
 - [알고리즘 문제풀이(Java)](https://github.com/youjungHwang/algorithm) | <sub>2024.03 ~ </sub>
 - [업무에 바로 쓰는 SQL 튜닝](https://lealea.tistory.com/category/CS/Database) | <sub>2024.09 ~ </sub>
-- [Effective Java] </sub>
-- [객체지향 실습] </sub>
+- Effective Java </sub>
+- 객체지향 학습 </sub>
+
+## Blog
+📖 [프로젝트 기획부터 설계까지](https://lealea.tistory.com/327)  
+📖 [Git 활용하여 자신있게 프로젝트 협업하기](https://lealea.tistory.com/328)  
+📖 [다양한 정책을 쉽게 등록하고 삭제하기](https://lealea.tistory.com/332)  
+📖 [이제 너만 믿는다, 테스트 코드 작성하기](https://lealea.tistory.com/333)  
+📖 [리팩토링: 프로모션 조회 설계 및 성능 개선 도전하기 - 설계 편](https://lealea.tistory.com/337)  
+📖 [리팩토링: 프로모션 조회 설계 및 성능 개선 도전하기 - 성능 최적화 편](https://lealea.tistory.com/338)  
+📖 [리팩토링: 쿠키 결제 로직 4단계로 개선하기 (feat. 원시값 포장)](https://lealea.tistory.com/339)  
+📖 [리팩토링 모음.zip](https://lealea.tistory.com/336)  
 
 ## Tech Stack
 <p>
