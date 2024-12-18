@@ -8,7 +8,6 @@
 ## Study
 - [알고리즘 문제풀이(Java)](https://github.com/youjungHwang/algorithm) | <sub>2024.03 ~ </sub>
 - [업무에 바로 쓰는 SQL 튜닝](https://lealea.tistory.com/category/CS/Database) | <sub>2024.09 ~ </sub>
-- Effective Java </sub>
 - 객체지향 학습 </sub>
 
 ## Blog
